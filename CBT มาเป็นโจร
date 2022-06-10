@@ -7,7 +7,7 @@
 "groups": [
 
 {"name":"อนิเมะ",
-"author":"อิสท์บลู",
+"author":"Test",
 "image": "https://www.dropbox.com/s/433b8qlj87x5icv/anime%20cast%20wallpaper.jpg?dl=1",
 
 stations:[
@@ -17,10 +17,14 @@ stations:[
 ]
 },
 
+{"name":"รออัพเดต",
+"author":"Test",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
+
 stations:[
 {"name": "รออัพเดต",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
-"url": "https://raw.githubusercontent.com/PhatCyfer/PhatCyfer/main/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5",
+"url": "https://raw.githubusercontent.com/PhatCyfer/PhatCyfer/main/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5"},
 
 ]},
 ]},
